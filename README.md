@@ -1,3 +1,5 @@
 This project presents the design and implementation of an autonomous delivery agent operating in a 2D grid city. The environment is modeled with static obstacles, varying terrain costs, and dynamic moving obstacles. The agent’s objective is to deliver packages efficiently under constraints of time and fuel. We implement and compare multiple search strategies: uninformed (Breadth-First Search, Uniform-Cost Search), informed (A* with admissible Manhattan heuristic), and local search (Hill Climbing with random restarts) for dynamic replanning. Experimental evaluation across different map sizes demonstrates that A* achieves the best balance between path optimality and efficiency, while local search methods provide adaptability in the presence of unpredictable obstacles. The study highlights when each algorithm performs best and proposes hybrid approaches for robust real-time navigation.
 
+REPORT FOR THE SAME https://1drv.ms/w/c/ae54058a2c656e00/ESVA2f-2NRdJkSsiy_2HhLwBdsmVf5hsOq354k-yfVBHmQ?e=uzYB4M
+
 
